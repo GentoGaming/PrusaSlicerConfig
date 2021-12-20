@@ -2,7 +2,7 @@
 Settings Ver 2.3
 
 Helping MakerGear Community , These are My Profile Settings please change the Start G Code as you would like as it is custom for my linkings.
-Note : Remember to change the Start-G code As I made some changes to my hardware and Added Auto Leveling via Sensor . Take off that part. 
+Note : Remember to change the Start-G code As I made some changes to my hardware and Added Auto Leveling via Sensor . Take off that part
 Mainly Copy , Paste your own Start , End G code to this printer profile. 
 
 https://github.com/GentoGaming/MakerGear-M2-Marlin2.0-Skr-MiniE3_BlTouch_Auto-Leveling_Silence_Printing
